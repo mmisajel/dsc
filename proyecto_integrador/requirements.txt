@@ -1,0 +1,10 @@
+azure-identity
+azure-ai-documentintelligence
+azure-ai-contentsafety
+python-dotenv
+requests
+ipykernel
+agent-framework-azure-ai==1.0.0rc6
+agent-framework-foundry==1.15.0
+agent-framework-orchestrations==1.4.0
+pydantic
