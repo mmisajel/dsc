@@ -1,0 +1,11 @@
+# Autenticación sin API keys (usa az login / identidad del participante)
+azure-identity>=1.17.0
+
+# Servicios del laboratorio
+azure-ai-documentintelligence>=1.0.0
+azure-ai-contentsafety>=1.0.0
+
+# Utilidades
+python-dotenv>=1.0.1
+ipykernel>=6.29.0
+
