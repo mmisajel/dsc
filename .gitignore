@@ -3,3 +3,6 @@
 __pycache__/
 .ipynb_checkpoints/
 data/
+outputs/
+.DS_Store
+chroma_proyecto/
