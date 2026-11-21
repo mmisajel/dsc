@@ -5,8 +5,12 @@ azure-identity>=1.17.0
 azure-ai-documentintelligence>=1.0.0
 azure-ai-contentsafety>=1.0.0
 
-# Agente (Laboratorio 2)
+# Agente (Laboratorio 2) y RAG (Laboratorio 3)
+# agent-framework incluye agent-framework-openai (OpenAIChatClient y OpenAIEmbeddingClient)
 agent-framework==1.25.0
+
+# Base vectorial local (Laboratorio 3)
+chromadb==1.5.9
 
 # Utilidades
 python-dotenv>=1.0.1
